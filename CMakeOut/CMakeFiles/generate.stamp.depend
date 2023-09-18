@@ -1,0 +1,42 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindVulkan.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.18/Templates/CPackConfig.cmake.in
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeLists.txt
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/3.18.4/CMakeCCompiler.cmake
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/3.18.4/CMakeRCCompiler.cmake
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/3.18.4/CMakeSystem.cmake
+D:/MasterArbeit/VulkanGUI/VulkanSetup/src/cmake/Win/FindSDL2.cmake
+D:/NetCDF/netCDF 4.9.0/lib/cmake/netCDF/netCDFConfig.cmake
+D:/NetCDF/netCDF 4.9.0/lib/cmake/netCDF/netCDFConfigVersion.cmake
+D:/NetCDF/netCDF 4.9.0/lib/cmake/netCDF/netCDFTargets-release.cmake
+D:/NetCDF/netCDF 4.9.0/lib/cmake/netCDF/netCDFTargets.cmake

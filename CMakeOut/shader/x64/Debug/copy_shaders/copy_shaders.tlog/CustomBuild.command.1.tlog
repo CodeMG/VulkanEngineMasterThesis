@@ -1,0 +1,138 @@
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\BRUSHER.COMP.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/brusher.comp.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/brusher.comp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\BRUSHER.COMP.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/brusher.comp.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/brusher.comp.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\HISTOGRAM_COUNTER.COMP.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/histogram_counter.comp.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/histogram_counter.comp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\HISTOGRAM_COUNTER.COMP.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/histogram_counter.comp.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/histogram_counter.comp.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\PARALLEL_COORDINATES_RENDERER.FRAG.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.frag.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.frag
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\PARALLEL_COORDINATES_RENDERER.FRAG.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.frag.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/parallel_coordinates_renderer.frag.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\PARALLEL_COORDINATES_RENDERER.VERT.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.vert.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.vert
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\PARALLEL_COORDINATES_RENDERER.VERT.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/parallel_coordinates_renderer.vert.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/parallel_coordinates_renderer.vert.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\VOLUME_RENDERER.FRAG.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.frag.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.frag
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\VOLUME_RENDERER.FRAG.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.frag.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/volume_renderer.frag.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4BBF65A266EC6FBF0D379D4CA4E8E51A\VOLUME_RENDERER.VERT.SPV.RULE
+setlocal
+D:\VulkanSDK\1.3.216.0\Bin\glslc.exe --target-spv=spv1.4 -o D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.vert.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.vert
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\VOLUME_RENDERER.VERT.SPV
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy D:/MasterArbeit/VulkanGUI/VulkanSetup/shader/volume_renderer.vert.spv D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/volume_renderer.vert.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\CMAKEOUT\CMAKEFILES\4B006C83A662853C4E2DCF6D498B0E33\COPY_SHADERS.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\MASTERARBEIT\VULKANGUI\VULKANSETUP\SHADER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/MasterArbeit/VulkanGUI/VulkanSetup -BD:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut --check-stamp-file D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,15 @@
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/VulkanSetup.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/NightlyMemoryCheck.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/Experimental.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/Continuous.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/Nightly.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/PACKAGE.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/RUN_TESTS.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/ALL_BUILD.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/CMakeFiles/ZERO_CHECK.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/src/CMakeFiles/PACKAGE.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/src/CMakeFiles/RUN_TESTS.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/CMakeFiles/compile_shaders.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/CMakeFiles/copy_shaders.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/CMakeFiles/PACKAGE.dir
+D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/shader/CMakeFiles/RUN_TESTS.dir

@@ -1,0 +1,6 @@
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\netcdf.dll
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\hdf5_hl.dll
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\hdf5.dll
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\zlib1.dll
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\libcurl.dll
+D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\VulkanSetup.dir\Release\VulkanSetup.vcxproj.CopyComplete

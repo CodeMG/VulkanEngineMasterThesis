@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_impl_sdl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_impl_vulkan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_stdlib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_file_dialog\CustomFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_file_dialog\ImGuiFileDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\crude_json.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_node_editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_node_editor_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\Correlator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\brusher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\parallel_coordinates_renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\volume_renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\globals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\dataset_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\glboal_descriptor_set_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\workbenches_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\vulkan\vk_format_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\data_workbench.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\parallel_coordinates_workbench.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_impl_sdl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_impl_vulkan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imgui_stdlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imstb_rectpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imstb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui\imstb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_file_dialog\CustomFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_file_dialog\ImGuiFileDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_file_dialog\ImGuiFileDialogConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\crude_json.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_bezier_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_canvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_extra_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_node_editor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\imgui_nodes\imgui_node_editor_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\Correlator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\brusher.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\parallel_coordinates_renderer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\pipelines\volume_renderer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\array_struct.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\attributes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\brushes.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\buffer_info.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\c_file.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\change_tracker.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\commandline_parser.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\dataset_convert_data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\datasets.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\descriptor_set_storage.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\drawlists.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\dynamic_bitset.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\enum_names.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\file_loader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\frame_limiter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\gpu_sync.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\gpu_timing.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\graphics_pipeline_structs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\image_info.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\imgui_globals.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\laod_behaviour.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\logger.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\min_max.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\netcdf_file.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\open_filepaths.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\persistent_samplers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\rendering_structs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\semaphore.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\settings_manager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\stager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\sys_info.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\texture_storage.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\thread_safe.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\vk_context.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures\workbench_base.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\brush_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\data_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\dataset_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\drawlist_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\file_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\global_descriptor_set_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\imgui_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\memory_view.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\ranges.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\std_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\vk_initializers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\vk_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\vma_initializers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\vma_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\util\workbenches_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\vulkan\vk_format_util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\data_workbench.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\parallel_coordinates_workbench.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D0A04976-CC84-332E-8779-EDBE3B71E0E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1A070666-D679-3FB6-9C32-200DEB04AFD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

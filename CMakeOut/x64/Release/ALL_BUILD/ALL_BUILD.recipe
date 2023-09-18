@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\x64\Release\compile_shaders</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\x64\Release\copy_shaders</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\VulkanSetup.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

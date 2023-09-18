@@ -1,0 +1,97 @@
+﻿  volume_workbench.cpp
+  The contents of <bit> are available only with C++20 or later.
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\structures/c_file.hpp(14,75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(240,51): warning C4244: "Argument": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(243,40): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(312,42): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(322,51): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(402,63): warning C4244: "=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(416,67): warning C4244: "=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(442,63): warning C4244: "=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(456,67): warning C4244: "=": Konvertierung von "double" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(495,32): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(496,49): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(556,46): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(730,41): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(731,41): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(732,41): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(733,42): warning C4305: "=": Verkürzung von "double" in "float"
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(938,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(942,21): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(965,54): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(966,56): warning C4267: "=": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1027,46): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1036,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1043,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1065,34): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1086,38): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1091,38): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1129,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1130,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1132,61): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1144,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1145,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1147,67): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1313,37): warning C4244: "Initialisierung": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1329,37): warning C4244: "Initialisierung": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1346,39): warning C4244: "Initialisierung": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1390,41): warning C4244: "Initialisierung": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1429,23): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1432,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1545,23): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1548,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1764,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(1765,57): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+D:\Microsoft Visual Studio\VC\Tools\MSVC\14.29.30037\include\utility(193,54): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "_Ty2", möglicher Datenverlust
+          with
+          [
+              _Ty2=float
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(381): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<float,float>::pair<_Ty1&,uint32_t&,0>(_Other1,_Other2) noexcept" der Funktions-Vorlage.
+          with
+          [
+              _Ty1=float,
+              _Other1=float &,
+              _Other2=uint32_t &
+          ]
+D:\MasterArbeit\VulkanGUI\VulkanSetup\src\workbenches\volume_workbench.cpp(381): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::pair<float,float>::pair<_Ty1&,uint32_t&,0>(_Other1,_Other2) noexcept" der Funktions-Vorlage.
+          with
+          [
+              _Ty1=float,
+              _Other1=float &,
+              _Other2=uint32_t &
+          ]
+     Bibliothek "D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/Release/VulkanSetup.lib" und Objekt "D:/MasterArbeit/VulkanGUI/VulkanSetup/CMakeOut/Release/VulkanSetup.exp" werden erstellt.
+  VulkanSetup.vcxproj -> D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\Release\VulkanSetup.exe

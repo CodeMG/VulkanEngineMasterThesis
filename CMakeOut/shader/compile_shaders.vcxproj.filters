@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\brusher.comp.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\correlation.comp.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\histogram_counter.comp.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\parallel_coordinates_renderer.frag.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\parallel_coordinates_renderer.vert.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\volume_renderer.frag.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4bbf65a266ec6fbf0d379d4ca4e8e51a\volume_renderer.vert.spv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\CMakeFiles\4b006c83a662853c4e2dcf6d498b0e33\compile_shaders.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\shader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\MasterArbeit\VulkanGUI\VulkanSetup\CMakeOut\shader\CMakeFiles\compile_shaders" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0460EACA-6DAF-324B-9FBC-F911797EE458}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
